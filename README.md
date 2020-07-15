@@ -1,6 +1,4 @@
-💻 👾 ☕️
-----
-<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="960" height="100">
+<img src="https://media.giphy.com/media/6P5ghEyGd6Kqs/giphy.gif" width="960" height="300">
 
 <i>Follow me around the web! ;)</i><br>
 
