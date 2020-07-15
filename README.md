@@ -1,7 +1,8 @@
 💻 👾 ☕️
-<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="960" height="150">
+----
+<img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="960" height="100">
 
-<i>Follow me around the web:</i><br>
+<i>Follow me around the web! ;)</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
