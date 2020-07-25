@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/6P5ghEyGd6Kqs/giphy.gif" width="960" height="300">
+<img src="https://media.giphy.com/media/6P5ghEyGd6Kqs/giphy.gif" width="600" height="200">
 
 <i>Follow me around the web! ;)</i><br>
 
