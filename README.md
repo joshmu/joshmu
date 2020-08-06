@@ -1,7 +1,5 @@
 <img src="https://media.giphy.com/media/6P5ghEyGd6Kqs/giphy.gif" width="600" height="200">
 
-<i>Follow me around the web! ;)</i><br>
-
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
