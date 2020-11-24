@@ -1,10 +1,7 @@
 <!-- GIF -->
 <!-- <img src="https://media.giphy.com/media/6P5ghEyGd6Kqs/giphy.gif" width="600" height="200"> -->
 
-<!-- ACTIVITY -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshmu&count_private=true&show_icons=true&theme=dracula)
-
-<!-- LANGUAGES -->
+![joshmu's github stats](https://github-readme-stats.vercel.app/api?username=joshmu&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmu&layout=compact&theme=dracula)](https://github.com/joshmu)
 
 <a href="https://www.linkedin.com/in/joshmu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,8 +9,6 @@
 <a href="https://www.facebook.com/joshmu" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/1232907388?si=w36ay0OKTyiciaBVGpMNSA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-<!-- REPO PINS -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshmu&repo=videonote)](https://github.com/joshmu/videonote) -->
 <a href="https://github.com/joshmu/videonote">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joshmu&repo=videonote&theme=dracula" />
 </a>
