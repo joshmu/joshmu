@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/joshmu" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/1232907388?si=w36ay0OKTyiciaBVGpMNSA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
+<a href="https://github.com/joshmu/dotfiles">
+  <img align="center" src="https://github-readme-stats-joshmu.vercel.app/api/pin/?username=joshmu&repo=dotfiles&theme=dracula" />
+</a>
 <a href="https://github.com/joshmu/videonote">
   <img align="center" src="https://github-readme-stats-joshmu.vercel.app/api/pin/?username=joshmu&repo=videonote&theme=dracula" />
 </a>
@@ -17,7 +20,4 @@
 </a>
 <a href="https://github.com/joshmu/joshmu-dance-website">
   <img align="center" src="https://github-readme-stats-joshmu.vercel.app/api/pin/?username=joshmu&repo=joshmu-dance-website&theme=dracula" />
-</a>
-<a href="https://github.com/joshmu/videonote-graphql-server">
-  <img align="center" src="https://github-readme-stats-joshmu.vercel.app/api/pin/?username=joshmu&repo=videonote-graphql-server&theme=dracula" />
 </a>
